@@ -1,4 +1,8 @@
-# Coding test
+# README
+
+Code Assessment Nov/2020
+
+# Requirements
 
 Patient data from laboratory are exported into CSV file. One line in CSV file represents one attribute with four fields - date, patientId, attribute name and attribute value. 
 
